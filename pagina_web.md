@@ -1,7 +1,4 @@
-## Proyecto:  Relación entre arrestos de 
-personas de distintas razas y la
-cantidad de arrestos por estado en
-EEUU, entre 2018 y 2020.
+## Proyecto:  Relación entre arrestos de personas de distintas razas y la cantidad de arrestos por estado en EEUU, entre 2018 y 2020.
 
 You can use the [editor on GitHub](https://github.com/Fernanda-Bley/proyecto_imt2200/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
