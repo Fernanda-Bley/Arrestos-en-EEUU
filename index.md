@@ -17,6 +17,7 @@
 >Unidos, para dar visibilidad de la situación de racismo en este país. 
 
  ## Video resumen 
+ 
 [![Video por poner](imagen)](link del video)
 
 ## Jupyter Notebook
