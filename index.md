@@ -16,12 +16,12 @@
 >de parcialidad entre el número de arrestos entre distintas razas por cada estado en Estados
 >Unidos, para dar visibilidad de la situación de racismo en este país. 
 
- ## Video resumen 
- 
-[![Video por poner](imagen)](link del video)
-
 ## Jupyter Notebook
-[Desarrollo del trabajo aquí!](https://drive.google.com/drive/u/0/folders/1ppymEd5C4t1i5lp86AM3Ohlvx8TUZMVx)
+[Desarrollo del trabajo aquí!](https://drive.google.com/file/d/1JAd04_2LRcRFuEcX-8PTNlZ8bUaWmqEN/view)
+
+## Video Resumen
+
+[![Video por poner](imagen)](link del video)
 
 ## Resumen del trabajo
 Durante el 2020, hubieron multiples protestas del movimiento  "Black Lives Matter" en Estados unidos por la desigualdad racial y el  racismo sistémico de la policia en Estados Unidos.
