@@ -17,7 +17,7 @@
 >Unidos, para dar visibilidad de la situación de racismo en este país. 
 
 ## Jupyter Notebook
-[Desarrollo del trabajo aquí!](https://drive.google.com/file/d/1JAd04_2LRcRFuEcX-8PTNlZ8bUaWmqEN/view)
+[Jupyter notebook y los datos necesarios para correrlos aquí](https://drive.google.com/drive/u/0/folders/1ppymEd5C4t1i5lp86AM3Ohlvx8TUZMVx)
 
 ## Video Resumen
 
