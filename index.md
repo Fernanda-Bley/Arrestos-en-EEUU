@@ -37,5 +37,8 @@ Para esto usamos las librerías: Pandas, Geopandas, json, sklearn, numpy y matpl
 
 ## Conclusiones 
 Vemos que los datos muestran que donde se encuentran las mayor cantidad de personas de  color (Texas, Georgia y New York) tiene el mayor resalte en el mapa de clusters, cantidad de  arrestos y aumento entre los años 2018 al 2020.
-Esto implica por lo menos una tendencia a los arrestos de personas negras, ya que estos  representan un porcentaje mucho menor a las personas blancas como se vio en el grafico de barras. Así que podemos  concluir que Sí, los datos reflejan la realidad de lo que se habla en las protestas del  movimiento BLM.
-Opinamos que tenemos que trabajar para terminar estas injusticias y hacer más  investigaciones que muestren con datos duros que esto está pasando. Es inaceptable que esta  inequidad suceda y sea ignorada, transforando estos datos a respuestas concretas.
+
+Vemos que no se puede llegar a una conclusión concreta, ya que parece tener que ver más con que a más población de color en un lugar, más arrestos hay de estas personas. Así que sugerimos ver más variables para ver si hay un prejuicio. 
+
+Opinamos que tenemos que trabajar para terminar estas injusticias y hacer más  investigaciones que muestren con datos duros que esto está pasando. Ya que es importante investigar estos temas para que se conozca más sobre la realidad aunque no den los datos que queremos.
+
