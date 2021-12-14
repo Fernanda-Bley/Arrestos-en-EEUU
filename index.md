@@ -21,9 +21,7 @@
 
 ## Video Resumen
 
-<p-align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SV_U2mCohdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Resumen del trabajo
 Durante el 2020, hubieron multiples protestas del movimiento  "Black Lives Matter" en Estados unidos por la desigualdad racial y el  racismo sistémico de la policia en Estados Unidos.
@@ -36,15 +34,15 @@ Para esto usamos las librerías: Pandas, Geopandas, json, sklearn, numpy y matpl
 
 ## Mapa de EEUU por estado en base a porcentaje arrestos por raza y porcentaje de poblacion entre 2018 a 2020
 
-[<img src="jupyter proyecto\mapa.png" width="400">](link del video) 
+[<img src="jupyter proyecto\mapa.png" width="600">](link del video) 
 
 ## Descripcion de los grupos
 
-[<img src="jupyter proyecto\heatmap.png" width="400">](link del video) 
+[<img src="jupyter proyecto\heatmap.png" width="450">](link del video) 
 
 ## Relacion promedio gente negra y arrestos de negros entre 2018 y 2020
 
-[<img src="jupyter proyecto\heatmap.png" width="400">](link del video) 
+[<img src="jupyter proyecto\linear_regre.png" width="400">](link del video) 
 
 ## Fuentes utilizadas
 - [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States#:~:text=According%20to%20the%202020%20Census,%2C%20and%20July%201%2C%202006.)
