@@ -17,16 +17,20 @@
 >Unidos, para dar visibilidad de la situación de racismo en este país. 
 
 ## Jupyter Notebook
-[Jupyter notebook y los datos necesarios para correrlos aquí](https://drive.google.com/drive/u/0/folders/1ppymEd5C4t1i5lp86AM3Ohlvx8TUZMVx)
+[Jupyter notebook y los datos necesarios para correrlos aquí](https://github.com/Fernanda-Bley/Arrestos-en-EEUU)
 
 ## Video Resumen
 
-[<img src="https://i.pinimg.com/originals/58/64/9b/58649b05671245921a002fe0a84d7752.jpg" width="400">](link del video) 
+[<img src="https://www.youtube.com/watch?v=SV_U2mCohdw" width="400">](link del video) 
 
 ## Resumen del trabajo
 Durante el 2020, hubieron multiples protestas del movimiento  "Black Lives Matter" en Estados unidos por la desigualdad racial y el  racismo sistémico de la policia en Estados Unidos.
 Este trabajo quiere ver si los datos que  recuperamos de varias fuentes distintas reflejan lo  que estas protestas presentan: Estados Unidos  tiene un sesgo contra las personas de color. 
 Para esto usamos las librerías: Pandas, Geopandas, json, sklearn, numpy y matplotlib. Con sus herramientas pudimos hacer mapas con clustering, tablas de datos y graficos para comprender la información mejor. 
+
+## Numero de arrestos de blancos y negros en todo EEUU desde el 2018 al 2020
+
+[<img src="jupyter proyecto\bars.png" width="400">](link del video) 
 
 ## Fuentes utilizadas
 - [Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States#:~:text=According%20to%20the%202020%20Census,%2C%20and%20July%201%2C%202006.)
