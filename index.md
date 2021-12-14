@@ -21,7 +21,7 @@
 
 ## Video Resumen
 
-[![Video por poner](imagen)](link del video) 
+[<img src="https://i.pinimg.com/originals/58/64/9b/58649b05671245921a002fe0a84d7752.jpg" width="400">](link del video) 
 
 ## Resumen del trabajo
 Durante el 2020, hubieron multiples protestas del movimiento  "Black Lives Matter" en Estados unidos por la desigualdad racial y el  racismo sistémico de la policia en Estados Unidos.
